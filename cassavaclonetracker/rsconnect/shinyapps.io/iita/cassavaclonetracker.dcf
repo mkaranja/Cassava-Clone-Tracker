@@ -1,0 +1,12 @@
+name: cassavaclonetracker
+title: cassavaclonetracker
+username:
+account: iita
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1517833
+bundleId: 2618330
+url: https://iita.shinyapps.io/cassavaclonetracker/
+when: 1574754075.17531
+asMultiple: FALSE
+asStatic: FALSE
